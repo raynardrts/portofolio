@@ -1,0 +1,67 @@
+.body {
+  background-color:#C9E4C5;
+  text-align: center;
+}
+div {
+  position: relative;
+  height: 600px;
+  width: 1350px;
+}
+h1 {
+  font-family: 'Otomanopee One', sans-serif;
+}
+h2 {
+  font-family: 'Otomanopee One', sans-serif;
+}
+h3 {
+  font-family: 'Otomanopee One', sans-serif;
+}
+hr {
+  height: 0;
+  width: 1350px;
+  border: 1px dotted;
+}
+a {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.6em;
+}
+.one {
+  padding-top:10px;
+}
+.mountain {
+  Display: inline-block;
+  position:absolute;
+  right: 350px;
+}
+.cloud-top {
+  Display: inline-block;
+  position:absolute;
+  right: 400px;
+}
+.cloud-bottom {
+  Display: inline-block;
+  position: absolute;
+  left: 400px;
+}
+.intro {
+position: relative;
+height: 300px;
+width: 1350px;
+}
+.skills {
+  position: relative;
+  height: 400px;
+  width: 1350px;
+}
+.logo {
+  height: 200px;
+  width: 200px;
+}
+.contactpg {
+  position: relative;
+  height: 400px;
+  width: 1350px;
+}
